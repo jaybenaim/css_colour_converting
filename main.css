@@ -5,6 +5,7 @@ html {
   /* 2 */
   -webkit-text-size-adjust: 100%;
   /* 2 */
+  
 }
 
 /* Sections
@@ -5714,4 +5715,6 @@ td.submit-submission form .input input {
 #landing_page .button {
   width: 100%;
   font-size: 1.25em;
+  color: darkgray; 
 }
+
