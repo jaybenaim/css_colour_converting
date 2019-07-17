@@ -23,7 +23,7 @@ print(sheet.cssText)
 
 
 # Write to a new file
-with open('test_css.css', 'wb') as f:
+with open('new_css.css', 'wb') as f:
     f.write(sheet.cssText)
 
 
